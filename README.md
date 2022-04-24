@@ -1,1 +1,3 @@
 # Cryptocurrencies
+
+The purpose of this challenge was to create a report of what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for a new investment at an imaginary Accounting firm.  Using unsupervised learning, the data was processed, clustered, reduced in dimensions and principal components using PCA to create an analysis for the clients.
