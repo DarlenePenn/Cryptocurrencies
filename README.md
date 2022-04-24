@@ -4,7 +4,6 @@ The purpose of this challenge was to create a report of what cryptocurrencies ar
 
 Some of the images did not show up on the uploaded file, likely due to a memory leak in Windows error, but images of the deliverables from the code are included here:
 ### Deliverable 3
-
 ![Deliverable 3](Resources/D3_elbow_curve.png)
 
 ### Deliverable 4
